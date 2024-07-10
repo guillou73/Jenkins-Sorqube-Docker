@@ -1,2 +1,2 @@
-some test
+some test.
 some changes
